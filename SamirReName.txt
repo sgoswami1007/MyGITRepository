@@ -3,3 +3,4 @@
  Another change to see difference with repo
 
 Hello Duniya I modified it today on 17th June morning.- Samir
+Changing using GitHub editor to pull it using the GitBash
